@@ -72,7 +72,6 @@ public class MyArrayList {
         count = 0;
     }
 
-
     public int[] getValues(){
         return values;
     }
