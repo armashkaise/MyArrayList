@@ -5,10 +5,6 @@ public class Main {
     public static void main(String[] args) {
         MyArrayList myArrayList = new MyArrayList();
 
-//        ArrayList arrayList = new ArrayList();
-//        arrayList.add(1);
-
-
         //добавление элементов
         myArrayList.add(1);
         myArrayList.add(2);
